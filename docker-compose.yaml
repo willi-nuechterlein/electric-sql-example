@@ -1,5 +1,5 @@
 version: "3.3"
-name: "electric_sync_example"
+name: "electric_sync"
 
 services:
   postgres:
